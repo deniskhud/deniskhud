@@ -29,7 +29,7 @@
 | [**Min-Heap**](https://github.com/deniskhud/cpp_min_heap) / [**Max-Heap**](https://github.com/deniskhud/cpp_max_heap) | Priority queue operations, heap sort basics |
 | [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console calculator using Reverse Polish Notation (RPN)   |
 | [**Sudoku**](https://github.com/deniskhud/sudoku) | Generator, backtracking solver, and console gameplay  |
-| [**And others**](https://github.com/deniskhud?tab=repositories)  |
+| [**And others**](https://github.com/deniskhud?tab=repositories) | <- here|
 
 ---
 
