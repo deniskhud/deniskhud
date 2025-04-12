@@ -22,14 +22,14 @@
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
-| [**Linked List**](https://github.com/deniskhud/LinkedList) | Manual implementation, insert/remove/search operations |
+| [**Linked List**](https://github.com/deniskhud/LinkedList) & [**Doubly Linked List**](https://github.com/deniskhud/DoublyLinkedList) | Manual implementation, insert/remove/search operations |
 | [**Binary Search Tree**](https://github.com/deniskhud/BinarySeachTree)  | Full support for insert/search/delete and tree traversals |
 | [**Hash Table**](https://github.com/deniskhud/cpp_hash_table_implementation)  | Open addressing with basic collision resolution   |
 | [**Stack**](https://github.com/deniskhud/cpp-Stack_implementation) & [**Queue**](https://github.com/deniskhud/cpp-queue_implementation)  | Implemented using arrays and linked lists  |
-| **Min-Heap / Max-Heap**        | Priority queue operations, heap sort basics                               |
-| **CLI Calculator**             | Console-based expression parser and evaluator                             |
-| **Sudoku Game (C++)**          | Puzzle generator, backtracking solver, and interactive CLI gameplay       |
-
+| [**Min-Heap**](https://github.com/deniskhud/cpp_min_heap) / [**Max-Heap**](https://github.com/deniskhud/cpp_max_heap) | Priority queue operations, heap sort basics |
+| [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console-based expression parser and evaluator    |
+| [**Sudoku**](https://github.com/deniskhud/sudoku) | Puzzle generator, backtracking solver, and interactive CLI gameplay       |
+| [**And others**](https://github.com/deniskhud?tab=repositories)  |
 
 ---
 
