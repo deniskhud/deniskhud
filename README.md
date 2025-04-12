@@ -22,9 +22,9 @@
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
-| **Singly & Doubly Linked List** | Manual implementation, insert/remove/search operations                    |
-| **Binary Search Tree**         | Full support for insert/search/delete and tree traversals                 |
-| **Hash Table**                 | Open addressing with basic collision resolution                           |
+| [**Linked List**](https://github.com/deniskhud/LinkedList) | Manual implementation, insert/remove/search operations |
+| [**Binary Search Tree**](https://github.com/deniskhud/BinarySeachTree)  | Full support for insert/search/delete and tree traversals |
+| [**Hash Table**](https://github.com/deniskhud/cpp_hash_table_implementation)  | Open addressing with basic collision resolution   |
 | **Stack & Queue**              | Implemented using arrays and linked lists                                 |
 | **Min-Heap / Max-Heap**        | Priority queue operations, heap sort basics                               |
 | **CLI Calculator**             | Console-based expression parser and evaluator                             |
