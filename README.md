@@ -27,8 +27,8 @@
 | [**Hash Table**](https://github.com/deniskhud/cpp_hash_table_implementation)  | Open addressing with basic collision resolution   |
 | [**Stack**](https://github.com/deniskhud/cpp-Stack_implementation) & [**Queue**](https://github.com/deniskhud/cpp-queue_implementation)  | Implemented using arrays and linked lists  |
 | [**Min-Heap**](https://github.com/deniskhud/cpp_min_heap) / [**Max-Heap**](https://github.com/deniskhud/cpp_max_heap) | Priority queue operations, heap sort basics |
-| [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console-based expression parser and evaluator    |
-| [**Sudoku**](https://github.com/deniskhud/sudoku) | Puzzle generator, backtracking solver, and interactive CLI gameplay       |
+| [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console calculator using Reverse Polish Notation (RPN)   |
+| [**Sudoku**](https://github.com/deniskhud/sudoku) | Generator, backtracking solver, and console gameplay  |
 | [**And others**](https://github.com/deniskhud?tab=repositories)  |
 
 ---
