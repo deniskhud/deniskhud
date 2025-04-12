@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Skills
+## 🧠 My Skills
 
 - 💻 Language: **C++**
 - 📚 Solving problems on **LeetCode**
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Projects
+## 🛠 My Projects
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
