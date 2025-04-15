@@ -22,13 +22,14 @@
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
+| [**Simple Compiler**](https://github.com/deniskhud/simple_compiler) | Compiler project |
+| [**Sudoku**](https://github.com/deniskhud/sudoku) | Generator, backtracking solver, and console gameplay  |
+| [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console calculator using Reverse Polish Notation (RPN)   |
 | [**Linked List**](https://github.com/deniskhud/LinkedList) & [**Doubly Linked List**](https://github.com/deniskhud/DoublyLinkedList) | Manual implementation, insert/remove/search operations |
 | [**Binary Search Tree**](https://github.com/deniskhud/BinarySeachTree)  | Full support for insert/search/delete and tree traversals |
 | [**Hash Table**](https://github.com/deniskhud/cpp_hash_table_implementation)  | Open addressing with basic collision resolution   |
 | [**Stack**](https://github.com/deniskhud/cpp-Stack_implementation) & [**Queue**](https://github.com/deniskhud/cpp-queue_implementation)  | Implemented using arrays and linked lists  |
 | [**Min-Heap**](https://github.com/deniskhud/cpp_min_heap) / [**Max-Heap**](https://github.com/deniskhud/cpp_max_heap) | Priority queue operations, heap sort basics |
-| [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console calculator using Reverse Polish Notation (RPN)   |
-| [**Sudoku**](https://github.com/deniskhud/sudoku) | Generator, backtracking solver, and console gameplay  |
 | [**And others**](https://github.com/deniskhud?tab=repositories) | <- here|
 
 ---
