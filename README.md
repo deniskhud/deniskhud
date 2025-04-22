@@ -22,6 +22,8 @@
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
+| [**GitHub User Activity**](https://github.com/deniskhud/GitHub-User-Activity) |Shows the latest public activity of a GitHub user using the GitHub API|
+|[**TMDB Movie Viewer**](https://github.com/deniskhud/-TMDB-CLI-Tool-)| Console application that fetches and displays movie information from The Movie Database (TMDb) API|
 | [**Simple Compiler**](https://github.com/deniskhud/simple_compiler) | Compiler project |
 | [**Sudoku**](https://github.com/deniskhud/sudoku) | Generator, backtracking solver, and console gameplay  |
 | [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console calculator using Reverse Polish Notation (RPN)   |
@@ -39,7 +41,6 @@
 - Practicing algorithmic thinking via **LeetCode**
 - Diving deeper into **C++ STL**, clean code, and patterns
 - Exploring **Linux** and terminal-based workflows (currently on Arch Linux)
-- Learning **Qt** and planning to build more GUI-based apps
 
 ---
 
