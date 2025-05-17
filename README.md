@@ -22,6 +22,7 @@
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
+|[**Text editor**](https://github.com/deniskhud/my_own_text_editor)| Simple text editor written in C |
 | [**GitHub User Activity**](https://github.com/deniskhud/GitHub-User-Activity) |Shows the latest public activity of a GitHub user using the GitHub API|
 |[**TMDB Movie Viewer**](https://github.com/deniskhud/-TMDB-CLI-Tool-)| Console application that fetches and displays movie information from The Movie Database (TMDb) API|
 | [**Simple Compiler**](https://github.com/deniskhud/simple_compiler) | Compiler project |
