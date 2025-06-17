@@ -1,20 +1,20 @@
 <h1 align="center">Hey there! I'm an aspiring C++ Developer 👋</h1>
 
 <p align="center">
-  🔧 Building a strong foundation in programming<br>
-  💻 Focused on algorithms, data structures & systems programming<br>
-  🚀 Actively looking for an internship or junior developer position
+   Building a strong foundation in programming<br>
+   Focused on algorithms, data structures & systems programming<br>
+   Actively looking for an internship or junior developer position
 </p>
 
 ---
 
 ## 🧠 My Skills
 
-- 💻 Language: **C++**
-- 📚 Solving problems on **LeetCode**
-- 🧩 Implemented core data structures from scratch
-- 🛠 Experience with **Git** and **GitHub**
-- 🐧 Learning **Linux**, using **Arch**, exploring customization (ricing)
+-  Language: **C++**
+-  Solving problems on **LeetCode**
+-  Use modern libraries: **Boost**, **Qt**
+-  Experience with **Git** and **GitHub**
+-  Learning **Linux**, using **Arch**, exploring customization 
 
 ---
 
@@ -22,6 +22,7 @@
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
+|[**Redis implementation**](https://github.com/deniskhud/redis_implementation)|redis implementation|
 |[**Text editor**](https://github.com/deniskhud/my_own_text_editor)| Simple text editor written in C |
 | [**GitHub User Activity**](https://github.com/deniskhud/GitHub-User-Activity) |Shows the latest public activity of a GitHub user using the GitHub API|
 |[**TMDB Movie Viewer**](https://github.com/deniskhud/-TMDB-CLI-Tool-)| Console application that fetches and displays movie information from The Movie Database (TMDb) API|
@@ -37,11 +38,11 @@
 
 ---
 
-## 📈 Learning & Growing
+##  Learning & Growing
 
 - Practicing algorithmic thinking via **LeetCode**
-- Diving deeper into **C++ STL**, clean code, and patterns
-- Exploring **Linux** and terminal-based workflows (currently on Arch Linux)
+- Diving deeper into **C++ STL**,**Boost**, **Qt**, and patterns
+- Exploring **Linux** and terminal-based workflows (currently on Arch)
 
 ---
 
