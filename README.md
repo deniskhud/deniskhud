@@ -34,7 +34,8 @@
 ---
 
 ##  Learning & Growing
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 - Practicing algorithmic thinking via **LeetCode**
 - Diving deeper into **C++ STL**,**Boost**, **Qt**, and patterns
 - Exploring **Linux** and terminal-based workflows (currently on Arch)
