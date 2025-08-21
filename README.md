@@ -22,18 +22,13 @@
 
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
+|[**Voxel Engine**](https://github.com/deniskhud/Voxel_Engine)|Voxel Engine|
 |[**Redis implementation**](https://github.com/deniskhud/redis_implementation)|redis implementation|
-|[**Text editor**](https://github.com/deniskhud/my_own_text_editor)| Simple text editor written in C |
-| [**GitHub User Activity**](https://github.com/deniskhud/GitHub-User-Activity) |Shows the latest public activity of a GitHub user using the GitHub API|
-|[**TMDB Movie Viewer**](https://github.com/deniskhud/-TMDB-CLI-Tool-)| Console application that fetches and displays movie information from The Movie Database (TMDb) API|
+|[**Console Text editor**](https://github.com/deniskhud/my_own_text_editor)| Simple text editor written in C |
 | [**Simple Compiler**](https://github.com/deniskhud/simple_compiler) | Compiler project |
 | [**Sudoku**](https://github.com/deniskhud/sudoku) | Generator, backtracking solver, and console gameplay  |
 | [**Console Calculator**](https://github.com/deniskhud/cpp_console_calculator)  | Console calculator using Reverse Polish Notation (RPN)   |
-| [**Linked List**](https://github.com/deniskhud/LinkedList) & [**Doubly Linked List**](https://github.com/deniskhud/DoublyLinkedList) | Manual implementation, insert/remove/search operations |
-| [**Binary Search Tree**](https://github.com/deniskhud/BinarySeachTree)  | Full support for insert/search/delete and tree traversals |
-| [**Hash Table**](https://github.com/deniskhud/cpp_hash_table_implementation)  | Open addressing with basic collision resolution   |
-| [**Stack**](https://github.com/deniskhud/cpp-Stack_implementation) & [**Queue**](https://github.com/deniskhud/cpp-queue_implementation)  | Implemented using arrays and linked lists  |
-| [**Min-Heap**](https://github.com/deniskhud/cpp_min_heap) / [**Max-Heap**](https://github.com/deniskhud/cpp_max_heap) | Priority queue operations, heap sort basics |
+
 | [**And others**](https://github.com/deniskhud?tab=repositories) | <- here|
 
 ---
