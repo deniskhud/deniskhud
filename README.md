@@ -23,6 +23,7 @@
 | Project                      | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
 |[**Voxel Engine**](https://github.com/deniskhud/Voxel_Engine)|Voxel Engine|
+|[**linux Shell**](https://github.com/deniskhud/linux-shell)|shell for linux|
 |[**Redis implementation**](https://github.com/deniskhud/redis_implementation)|redis implementation|
 |[**Console Text editor**](https://github.com/deniskhud/my_own_text_editor)| Simple text editor written in C |
 | [**Simple Compiler**](https://github.com/deniskhud/simple_compiler) | Compiler project |
